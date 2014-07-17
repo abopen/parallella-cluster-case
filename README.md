@@ -8,24 +8,16 @@
 * Metal hex spacers for stacking and supplying power to the boards
 * Heatsinks for the Epiphany chips
 * 80mm 5VDC fan
-* Acrylic enclosure
 * DC power switch
 * High quality 5V 8A mains power supply
 
-Cluster communication interconnect is not provided and it is assumed that Ethernet will be used. Note that neither the Parallella boards nor an Ethernet switch and cables are included.
+Cluster interconnect is not provided and it is assumed that Ethernet will be used. Note that neither the Parallella boards nor an Ethernet switch and cables are included.
 
 The PACK-01 kit can be bought from [Ground Electronics](http://groundelectronics.com).
 
 ## Repository contents
 
-The case design for PACK-01 is provided in the following formats:
-
-* Adobe Illustrator (source)
-* SVG
-* PDF
-* DXF
-
-It is laser cut from 3mm clear acrylic.
+At present just the assembly guide.
 
 ## Bill of materials
 
@@ -77,55 +69,57 @@ If the jumper is not already fitted, first locate J15.
 
    ![Bumpers attached](/images/BumpersAttached.jpg) 
 
-Note that these go on the side opposite from the one which is etched.
+   Note that these go on the side opposite from the one which is etched.
 
-4. Fix the switch into the front panel.
+4. Fit the switch into the front panel.
 
    ![Switch fitted](/images/SwitchFitted.jpg)
 
-The front panel has four rectangular slots and a circular cut-out at the bottom. The switch and cut-out are keyed and when looking at the rear of the panel this should be to the left-hand side, with the gold terminal on the rocker switch at the bottom.
+   The front panel has four rectangular slots and a circular cut-out at the bottom. The switch and cut-out are keyed and when looking at the rear of the panel this should be to the left-hand side, with the gold terminal on the rocker switch at the bottom.
 
 5. Fit the XLR plug to the rear panel.
 
    ![XLR plug fitted](/images/XLRFitted.jpg)
 
-The XLR panel mounted plug should be fitted to the rear panel as shown above, with the long rectangular slot above to the left-hand side, and secured in place with 2x countersunk M3 steel machine screws and 2x nyloc steel nuts.
+   The XLR panel mounted plug should be fitted to the rear panel as shown above, with the long rectangular slot above and to the left-hand side, and secured in place with 2x countersunk M3 steel screws and 2x nyloc nuts.
 
 6. Attach the fan to the right-hand side panel.
 
    ![Fan attached](/images/FanFitted.jpg) 
 
-Put the panel with the Parallella logo with the etched side facing up, so that the logo is reversed. Place the fan on top with its label facing upwards and wires pointing down. Secure the fan by inserting the M5x12mm screws from the underside.
+   Put the panel with the Parallella logo etched side facing up, so that the logo is reversed. Place the fan on top with its label facing upwards and wires pointing down. Secure the fan by inserting the M5x12mm screws from the underside.
+
+   When handling the fan take care that the wires are not pulled away from the centre by pinching them into the slot in the plastic housing.
 
 7. Attach the four 30mm hex spacers to the base panel.
 
    ![30mm hex spacers fitted](/images/30mmSpacers.jpg)
 
-The four 30mm hex spacers (longest) are secured to the base panel by four M3x8mm nylon screws inserted from the underside. The studs on the spacers should be pointing upwards.
+   The four 30mm hex spacers (longest) are secured to the base panel by four M3x8mm nylon screws inserted from the underside. The studs on the spacers should be pointing upwards.
 
 8. Add the first Parallella board.
 
    ![First board in place](/images/FirstParallella.jpg)
 
-Note the orientation, with the Ethernet jack above the larger rectangle etched onto the base plate, and the Micro SD socket positioned above the smaller rectangle.
+   Note the orientation, with the Ethernet jack above the larger rectangle etched onto the base plate, and the Micro SD socket positioned above the smaller rectangle.
 
 9. Connect the power wires.`
 
    ![Connecting the power wires](/images/XLRBlackRing.jpg)
 
-Bring the rear panel towards the Ethernet jack and route the black wire from the XLR under the board, and then place the crimp ring on the stud nearest TP12. 
+   Bring the rear panel towards the Ethernet jack and route the **black wire** from the XLR under the board and place the crimp ring on the **stud nearest TP12**. 
 
-Take the crimp ring attached to a red wire and with a female spade connector on the other end — which may already be attached to the switch — and place it on the stud next to the DC barrel connector. 
+   Take the crimp ring attached to a **red wire** and with a female spade connector on the other end — which may already be attached to the switch — and place it on the **stud next to the DC barrel connector**. 
 
-Take great care and note that if the power connections are reversed permanent damage is likely to occur when power is applied!
+   Take great care and note that if the power connections are reversed permanent damage is likely to occur when power is applied!
 
-Place a single M3 steel washer on each of the two studs opposite.
+   Place a single M3 steel washer on each of the two studs opposite.
 
 10. Add four 15mm hex spacers.
 
    ![Add first set of 15mm spacers](/images/First15mmSpacers.jpg)
 
-Add four 15mm M-F hex spacers and nip tight with a small spanner, but take care not to overtighten.
+   Add four 15mm M-F hex spacers and nip tight with a small spanner, but take care not to overtighten.
 
 11. Add second Parallella board.
 
@@ -135,27 +129,26 @@ Add four 15mm M-F hex spacers and nip tight with a small spanner, but take care 
 
    ![Connect fan wires](/images/ConnectFan.jpg)
 
-Place the right-hand panel and fan assembly to the right of the stack, with the fan label pointing inwards and as shown above. Route the wires from the fan under the bottom board and out of the other side.
+   Place the right-hand panel and fan assembly to the right of the stack, with the fan label pointing inwards and as shown above. Route the wires from the fan under the bottom board and out of the other side.
 
-Locate the fan crimp rings on the studs, above the power wires, again with red adjacent to the DC barrel connector and black on the stud nearest TP12.
+   Locate the fan crimp rings on the studs, above the power wires, again with red adjacent to the DC barrel connector and black on the stud nearest TP12.
 
-Once again add an M3 steel washer to each of the two studs opposite.
+   Once again add an M3 steel washer to each of the two studs opposite.
 
 13. Add second set of four 15mm hex spacers.
-
-   ![Add second set of 15mm spacers](/images/Second15mmSpacers.jpg)
 
 14. Add the third Parallella board.
 
    ![Add the third Parallella](/images/ThirdParallella.jpg)
 
-At this point if you do not have a third board, you must add three M3 steel washers to each stud, so as to maintain the correct height of the stack.
+   At this point if you do not have a third board, you must add three M3 steel washers to each stud, so as to maintain the correct height of the stack.
 
 15. Add the fourth board.
 
    ![Add the fourth board](/images/FourthParallella.jpg)
 
-Again, add three M3 steel washers to each stud if not adding another board.
+   Again, add three M3 steel washers to each stud if not adding another board.
+
 
 16. Add the 20mm hex spacers.
 
@@ -165,26 +158,27 @@ Again, add three M3 steel washers to each stud if not adding another board.
 
    ![Connect the switch](/images/ConnectSwitch.jpg)
 
-It does not matter which of the red wires is connected to which terminal, as long as it is the two silver coloured terminals (do not connect to the gold coloured one).
+   It does not matter which of the red wires is connected to which terminal, as long as it is the two silver coloured terminals (do not connect to the gold coloured one).
 
-Note that the spade connectors may be quite a tight fit.
+   Note that the spade connectors may be quite a tight fit.
 
 18. Locate the four side panels in the base plate.
 
    ![Fit the side panels](/images/FitSidePanels.jpg)
 
-Note that it may be necessary to manoeuvre wires into place before the side panels will locate.
+   Note that it may be necessary to manoeuvre wires into place before the side panels will locate.
 
 19. Add top plate.
 
    ![Add the top plate](/images/AddTopPlate.jpg)
 
-Note that the top plate is polarised and will only fit one way round.
+   Note that the top plate is polarised and will only fit one way round.
 
 20. Secure top plate with four M3x8mm nylon screws.
 
    ![Secure the top plate](/images/SecureTopPlate.jpg)
 
+That's it!
 
 ## Licence
 
