@@ -30,7 +30,7 @@ In addition to the acrylic parts the PACK-01 kit contains:
 |  1  | 20mm 10A rocker switch                 |
 |  1  | 3-pin XLR panel male plug              |
 |  4  | Hex spacer nickel plated M-F M3x30mm   |
-|  12 | Hex spacer nickel plated M-F M3x15mm   |
+|  12 | Hex spacer nickel plated M-F M3x16mm   |
 |  4  | Hex spacer nickel plated F-F M3x20mm   |
 |  8  | Cheesehead slotted nylon screw M3x8mm  |
 |  2  | Countersunk pozi machine screw M3x10mm |
