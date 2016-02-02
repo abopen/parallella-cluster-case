@@ -38,7 +38,6 @@ In addition to the acrylic parts the PACK-01 kit contains:
 |  28 | Washer steel M3                        |
 |  4  | Self-tapping case fan screws M5x12mm   |
 |  1  | 5V 8A desktop mains adaptor            |
-|  4  | 15x15x8mm heatsink                     |
 |  4  | Clear 10mm diameter rubber bumper      |
 
 ## Powering boards
@@ -180,9 +179,16 @@ If the jumper is not already fitted, first locate J15.
 
 That's it!
 
+## Changelog
+
+| Version | Date     | Summary                              |
+|---------|----------|--------------------------------------|
+| 1.1     | 02/02/16 | Heatsinks no longer included         |
+| 1.0     | 18/12/14 | Initial version (tagged later)       |
+
 ## Licence
 
-Parallella Cluster Case is copyright 2014 [AB Open Ltd](http://abopen.com).
+Parallella Cluster Case is copyright 2014, 2016 [AB Open Ltd](http://abopen.com).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
